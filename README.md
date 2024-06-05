@@ -13,5 +13,5 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=marcelio911&theme=dracula&line_height=27">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=marcelio911&hide=html,css,ruby,starlark,kotlin,python,handlebars,shell,objective-c&theme=dracula](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelio911&hide=html,css,ruby,starlark,kotlin,python,handlebars,shell,objective-c&theme=dracula)">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelio911&hide=html,css,ruby,starlark,kotlin,python,handlebars,shell,objective-c&theme=dracula">
 </p>
